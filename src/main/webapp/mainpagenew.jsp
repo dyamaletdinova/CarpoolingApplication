@@ -572,11 +572,11 @@
 	<header> <nav id="header-nav" class="navbar navbar-default">
 	<div class="container"></div>
 	<div class="navbar-header">
-		<a href="index.html" class="pull-left visible-md visible-lg">
+		<a href="mainpagenew.jsp" class="pull-left visible-md visible-lg">
 			<div id="logo-img" alt="Logo image"></div>
 		</a>
 		<div class="navbar-brand">
-			<a href="index.html"><h1>MUM CarPooling</h1></a>
+			<a href="mainpagenew.jsp"><h1>MUM CarPooling</h1></a>
 		</div>
 	</div>
 	</nav> </header>

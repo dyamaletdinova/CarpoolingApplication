@@ -18,11 +18,11 @@
   <nav id="header-nav" class="navbar navbar-default">
     <div class="container"></div>
     <div class="navbar-header">
-      <a href="index.jsp" class="pull-left visible-md visible-lg">
+      <a href="mainpagenew.jsp" class="pull-left visible-md visible-lg">
         <div id="logo-img" alt="Logo image"></div>
       </a>
       <div class="navbar-brand">
-        <a href="index.jsp"><h1>MUM CarPooling</h1></a>
+        <a href="mainpagenew.jsp"><h1>MUM CarPooling</h1></a>
       </div>
     </div>
   </nav>
@@ -107,6 +107,7 @@
 </div>
 </div>
 </div>
+<br/><br/><br/><br/><br/><br/><br/>
 <div id=footer>
 <footer class="panel-footer">
   <div class="container">
@@ -118,10 +119,10 @@
         Bizen Okbaldet: Bizentse@gmail.com
         <hr class="visible-xs">
       </section>
-      <section id="copyright" class="col-sm-4">
+      <section id="copyright" class="col-sm-3">
      
       </section>
-      <section id="sayings" class="col-sm-4">
+      <section id="sayings" class="col-sm-2">
         <em>"It's a Mark of an educated mind, to entertain a thought without accepting it" --Aristotle </em>
       </section>
     </div>

@@ -63,20 +63,18 @@
 </div>
 </div>
  <div id=footer>
+<br/><br/><br/><br/>
 <footer class="panel-footer">
   <div class="container">
     <div class="row">
       <section id="members" class="col-sm-4">
-        
         Xianfeng Cai: samuel.caiceo@gmail.com<br>
         Diana  Yamaletdinova:  d.yamaletdinova@gmail.com<br>
         Bizen Okbaldet: Bizentse@gmail.com
         <hr class="visible-xs">
       </section>
-      <section id="copyright" class="col-sm-4">
-     
-      </section>
-      <section id="sayings" class="col-sm-4">
+      <section id="copyright" class="col-sm-3"></section>
+      <section id="sayings" class="col-sm-2">
         <em>"It's a Mark of an educated mind, to entertain a thought without accepting it" --Aristotle </em>
       </section>
     </div>
